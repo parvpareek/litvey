@@ -18,3 +18,5 @@
     ```bash
     python3 main.py
     ```
+
+Make sure you have pdf files in the data directory
