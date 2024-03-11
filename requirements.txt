@@ -1,0 +1,8 @@
+llama-index
+llama-hub
+unstructured==0.10.18 
+lxml 
+cohere
+subprocess
+llama-index-readers-file
+llama-index--llms-openai
